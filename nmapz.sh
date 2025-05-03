@@ -1,6 +1,6 @@
 
 
-python3 /home/herrken/scripts/gen_nmap.py;
+python3 ./gen_nmap.py;
 
 while read item; do
     # Extract IP and ports separately
